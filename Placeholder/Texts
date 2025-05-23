@@ -1,0 +1,38 @@
+Objective:
+## This is a real-world challenge designed to assess your ability to analyze international trade data using Excel, Python, and Power BI. The tasks mirror the day-to-day responsibilities at Arthashastra. This is your chance to show how you solve, interpret, and communicate with data.
+
+Sections & Tasks
+1. Exploratory Data Analysis (EDA) – Excel + Python
+- Summarize total imports/exports by country, year, and product section.
+- Identify top 5 product sections globally and for India.
+- In Python, calculate:
+  • CAGR of India’s exports from 2015 to 2022.
+  • Country with highest imports from India in 2022.
+- Charts to be prepared (for India):
+  • Line chart of India’s export trend for Machinery (HSN Code 84) from 2015–2022.
+  • Bar chart of top 5 export commodities for India in 2022.
+
+
+ 2.Aggregations & Policy Insights – Power BI + Excel
+- Build dashboards showing:
+  • Trade balance (Exports - Imports) per country.
+  • Year-wise trade flow trends (Exports and Imports).
+  • Treemap of product section-wise contribution to total exports.
+- Add filters for country, product section, and year.
+- Answer the following with insights:
+  • Which 3 countries does India have the largest trade deficit with?
+  • Which product sections are the top contributors to India's trade surplus?
+  • Recommend 1 sector for tariff protection and 1 sector for export promotion with reasons
+
+
+3. PowerPoint Summary – Max 4 Slides
+Summarize your work and insights in a clear and concise 4-slide deck. Each slide must answer the following:
+Slide 1: India Trade Trends
+  • Key highlights of India's trade between 2015–2022.
+  • Insights from the export trend of Machinery (HSN Code 84).
+Slide 2: Country-Level Observations
+  • India’s top trading partners.
+  • Countries with maximum trade surplus and deficit.
+Slide 3: Commodity-Level Insights
+  • Top 5 export commodities in 2022.
+  • Which sectors to protect/promote and why?
